@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marwyp
 - 👀 I’m interested in programming and ICT
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on some interesting projects connected with networks
+- 💞️ I’m looking to collaborate on some interesting projects connected with programming and networks
 - 📫 How to reach me: marekwypich@gmail.com
 
 <!---
